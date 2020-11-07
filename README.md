@@ -1,2 +1,2 @@
 # COVID-19-laboratory-testing-app
-Client-Server application + SW DOCUMENTATION for recording patients results of a COVID-19 lab testing. Laboratory Information System is created for all types of corona virus tests. Documentation is also provided, but only in Serbian language.
+Client-Server application + SW DOCUMENTATION for recording patients results on COVID-19 lab testing. Laboratory Information System is created for all types of corona virus tests. Documentation is also provided, but only in Serbian language (Defined Use Case Scenarios, UML sequence diagram, Domain Class Moldel and Relational Model, Application Logic Desing and User Interface Design, DBBRoker SWD, implementation and testing).
